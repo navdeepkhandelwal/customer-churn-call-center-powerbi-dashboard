@@ -1,15 +1,12 @@
 # Customer Churn & Call Center Power BI Dashboards
 
 ## Project Overview
-This repository contains multiple Power BI dashboards built to analyze telecom customer churn, retention trends, and call center performance. The dashboards provide insights into customer behavior, service usage, revenue impact, and support center efficiency.
+This repository contains multiple Power BI dashboards analyzing telecom customer churn, customer retention, and call center performance. The dashboards provide interactive insights using KPIs, slicers, and DAX measures.
 
 ---
 
-## Dashboards Included
-
-### 1. Customer Churn Dashboard
-**File:** Customer Churn Dashboard.pbix  
-**Preview:** Customer Churn Dashboard.png  
+## 1. Customer Churn Dashboard
+![Customer Churn Dashboard](Customer%20Churn%20Dashboard.png)
 
 This dashboard focuses on overall churn analysis including:
 - Total customers and churn count
@@ -22,8 +19,8 @@ This dashboard focuses on overall churn analysis including:
 
 ---
 
-### 2. Customer Retention Analysis
-**Preview:** Customer Retention Analysis.png  
+## 2. Customer Retention Analysis
+![Customer Retention Analysis](Customer%20Retention%20Analysis.png)
 
 This dashboard highlights customer retention insights:
 - Stayed vs churned customers
@@ -35,8 +32,8 @@ This dashboard highlights customer retention insights:
 
 ---
 
-### 3. Telecom Churn Dashboard
-**Preview:** Telecom Churn Dashboard.png  
+## 3. Telecom Churn Dashboard
+![Telecom Churn Dashboard](Telecom%20Churn%20Dashboard.png)
 
 This dashboard provides exploratory churn analysis:
 - Customer segmentation
@@ -47,14 +44,14 @@ This dashboard provides exploratory churn analysis:
 
 ---
 
-### 4. Jobaaj Call Center Dashboard
-**Preview:** Jobaaj Call Center.png  
+## 4. Jobaaj Call Center Dashboard
+![Jobaaj Call Center](Jobaaj%20Call%20Center.png)
 
 This dashboard analyzes call center performance:
 - Calls answered vs resolved
-- Average satisfaction score
+- Average satisfaction score gauge
 - Average answer speed
-- Calls per month
+- Calls per month analysis
 - Agent statistics table
 - Topic and agent filtering
 
@@ -68,21 +65,17 @@ This dashboard analyzes call center performance:
 
 ## Tools & Technologies
 - Power BI Desktop
-- DAX
+- DAX (Data Analysis Expressions)
 - Data Modeling
 - Interactive Visualizations
 
 ---
 
-## Key Features
-- KPI Cards
-- Donut Charts
-- Gauge Visual
-- Stacked Bar Charts
-- Line Charts
-- Slicers
-- Tables
-- Interactive Filters
+## Files Included
+- Customer Churn Dashboard.pbix
+- Churn_Dataset.xlsx
+- Call-Center-Dataset.csv
+- Dashboard screenshots (.png)
 
 ---
 
